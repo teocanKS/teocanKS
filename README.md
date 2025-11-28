@@ -10,7 +10,7 @@
 ---
 
 ### 🌱 Currently Learning
-- Python  
+- Python,PHP,JS
 - IT/OT Cybersecurity  
 - Network Security  
 - Raspberry Pi Projects  
