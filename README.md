@@ -10,10 +10,10 @@
 ---
 
 ### 🌱 Currently Learning
-- Python,PHP,JS
+- Python,JS
 - IT/OT Cybersecurity  
 - Network Security  
-- Raspberry Pi Projects  
+- Cloud Security 
 
 ---
 
@@ -39,7 +39,7 @@
 - 🎓 MIS student exploring the edge of IT and operational technology security  
 - 💡 Always exploring the intersection of technology & security  
 - 🔧 Love building and learning from real-world technical projects  
-- ⚡ Fueled by **PeakATP and caffeine**
+- ⚡ Fueled by **PeakATP and creatine**
 
 ---
 
