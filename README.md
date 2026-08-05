@@ -3,7 +3,7 @@
 
 ---
 
-🎓 I'm a 3rd-year Management Information Systems student at Dokuz Eylül University  
+🎓 I'm a 4rd-year Management Information Systems student at Dokuz Eylül University  
 🛡️ Passionate about **IT/OT Cybersecurity**, networks, and automation systems  
 🏋️‍♂️ Deeply interested in **fitness**, **supplementation**, and **hormone research**
 
