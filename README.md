@@ -28,7 +28,7 @@
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teo-can-kocag%C3%BCl-4272522a7/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teocankocagul)
 [![Twitter (X)](https://img.shields.io/badge/-Twitter-black?logo=x&logoColor=white)](https://x.com/teocanKS)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/teocanKS)
 
